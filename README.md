@@ -1,8 +1,8 @@
-# 👋Olá, seja bem-vindo ao meu perfil 🚀
+# 👋Olá, seja bem-vindo🚀
 
 ## Oque estou fazendo?
 
-Estou a estudar Dart 💙💥 & Flutter💙👑.
+Estou estudando Dart 💙💥 & Flutter💙👑.
 
 Em breve começarei os estudos sobre inteligencia artificial 👓.
 
