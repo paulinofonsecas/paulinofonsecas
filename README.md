@@ -19,4 +19,3 @@ Em breve começarei os estudos sobre inteligencia artificial 👓.
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="140" height="60">
 <img src="https://github-readme-stats.vercel.app/api?username=paulinofonsecas&theme=dracula" alt="github stats">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinofonsecas&layout=compact&theme=dracula" alt="Top linguagens mais usadas">
