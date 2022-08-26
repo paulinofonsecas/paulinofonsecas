@@ -16,7 +16,7 @@ Em breve começarei os estudos sobre inteligencia artificial 👓.
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="flutter" width="40" height="40"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40">
 
-    
+<br>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="140" height="60">
