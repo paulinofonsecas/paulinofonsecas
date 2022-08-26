@@ -11,7 +11,7 @@ Em breve começarei os estudos sobre inteligencia artificial 👓.
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40">
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"> 
  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="git" width="60" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Android_logo_2019_%28white_wordmark%29.svg/512px-Android_logo_2019_%28white_wordmark%29.svg.png?20201115161658" alt="android" width="210" height="78">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Android_logo_2019_%28white_wordmark%29.svg/512px-Android_logo_2019_%28white_wordmark%29.svg.png?20201115161658" alt="android" width="150" height="35">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="flutter" width="40" height="40"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40">
