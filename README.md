@@ -9,7 +9,7 @@ Cursando o CCNA 200-301
 ## Tecnologias
 <p align="left">
 
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/php/php-horizontal.svg" alt="php" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="40" height="40">
 <img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="laravel" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"> 
