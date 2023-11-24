@@ -1,4 +1,5 @@
-
+# Sobre mim
+Olá! 👋 Eu sou um desenvolvedor apaixonado com experiência em uma variedade de tecnologias e linguagens de programação. Tenho um forte interesse em **Flutter** para o desenvolvimento de aplicativos móveis, **Laravel** para o desenvolvimento de aplicações web robustas e **Java** para a criação de aplicações empresariais. Além disso, sou proficiente no uso do **Git** para controle de versão. Estou sempre aprendendo e buscando novos desafios!
 
 ## Tecnologias
 <p align="left">
