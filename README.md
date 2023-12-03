@@ -1,13 +1,20 @@
-# Sobre mim
-Olá! 👋 Eu sou um desenvolvedor apaixonado com experiência em uma variedade de tecnologias e linguagens de programação. Tenho um forte interesse em **Flutter** para o desenvolvimento de aplicativos móveis, **Laravel** para o desenvolvimento de aplicações web robustas e **Java** para a criação de aplicações empresariais. Além disso, sou proficiente no uso do **Git** para controle de versão. Estou sempre aprendendo e buscando novos desafios!
 
-## Tecnologias
-<p align="left">
-<img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="laravel" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"> 
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="git" width="60" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="flutter" width="40" height="40"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</br>
+## Welcome to My World: Meet Paulino! 😊
+
+### Hey there, I'm Paulino! Allow me to give you a glimpse into who I am and what I'm all about. 🌟
+
+Mobile | Flutter Dev | Full Stack | PHP Laravel | IT Manager | Cybersecurity  :robot:
+
+Passionate about Technology and Coding. :heart:
+
+
+
+## About me 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)](https://github.com/paulinofonsecas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-167362148/)](https://www.linkedin.com/feed/)
+[![Gmail Badge](mailto:paulinofonsecass@gmail.com)
+
+
+Thank you for dropping by!
+Have a great time!! o/
