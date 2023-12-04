@@ -12,8 +12,8 @@ Passionate about Technology and Coding. :heart:
 ## About me 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=paulinofonsecas&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-paulinofonsecas.vercel.app/api/top-langs/?username=paulinofonsecas&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -35,11 +35,9 @@ Passionate about Technology and Coding. :heart:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/paulinofonsecas/paulinofonsecas/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 
 ## Language / Framework stats
-https://profile.codersrank.io/user/paulinofonsecas/
+![Framework stats](https://profile.codersrank.io/user/paulinofonsecas/)
 
 
 ## Contacts
