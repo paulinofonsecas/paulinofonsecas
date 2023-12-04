@@ -19,7 +19,7 @@ Passionate about Technology and Coding. :heart:
 ![Livewire](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-![Firebase](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
